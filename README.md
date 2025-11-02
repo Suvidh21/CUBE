@@ -83,6 +83,8 @@ Export filtered views or PDFs as needed
 
 🧭 Explanation of Script
 CUBE includes specialized Excel report modules (TF1 to TF4), each designed to provide targeted insights into different aspects of Service Request management. These reports utilize specific categorization logic and sheet structures for clarity and actionability.
+
+
 TF1: Unreceived Meters
 Description: This report lists all Service Requests for which the physical meters have not yet arrived at the repair center.
 Use Case: It serves as a critical tool for following up on transit delays and reducing initial processing lags, highlighting the first potential bottleneck in the repair process.
