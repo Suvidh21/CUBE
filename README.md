@@ -7,16 +7,13 @@ Contact: suvidhmathur25@gmail.com
 
 🧩 Overview
 
-<p align="center">
-  <img src="screenshots/screenshot_1.png" width="700">
-</p>
+![Welcome Screen](screenshots/Screenshot_1.png)
 
 CUBE is a desktop-based data management and visualization tool built to streamline Service Request (SR) tracking, prioritization, and analysis for the CSS Repair Center.
 It automates Turnaround Time (TAT) calculations, enables data filtering and editing, and generates targeted Excel reports to improve service efficiency and decision-making.
 
-<p align="center">
-  <img src="screenshots/screenshot_2.png" width="700">
-</p>
+![Data Import](screenshots/Screenshot_2.png)
+
 
 🚀 Key Features
 🔹 Tkinter Desktop Interface
@@ -92,9 +89,8 @@ Export filtered views or PDFs as needed
 🧭 Explanation of Script
 CUBE includes specialized Excel report modules (TF1 to TF4), each designed to provide targeted insights into different aspects of Service Request management. These reports utilize specific categorization logic and sheet structures for clarity and actionability.
 
-<p align="center">
-  <img src="screenshots/screenshot_3.png" width="700">
-</p>
+![Dashboard](screenshots/Screenshot_3.png)
+
 
 TF1: Unreceived Meters
 Description: This report lists all Service Requests for which the physical meters have not yet arrived at the repair center.
@@ -149,9 +145,7 @@ Categorization Logic:
 
 SECTION 6 – Graph Descriptions
 
-<p align="center">
-  <img src="screenshots/screenshot_4.png" width="700">
-</p>
+![Analytics](screenshots/Screenshot_4.png)
 
 The web dashboard integrates several interactive graphs to provide visual insights into the Service Request data:
 SRs per Branch: Displays number of SRs raised from each branch. Helps identify high-activity zones.
@@ -170,9 +164,7 @@ This application is intended for CSS Repair Center use only.
 Functionality on datasets outside the designed schema may be limited.
 
 📬 Support
-<p align="center">
-  <img src="screenshots/screenshot_5.png" width="700">
-</p>
+![Report Export](screenshots/Screenshot_5.png)
 
 For issues, suggestions, or collaboration:
 Suvidh Mathur – suvidhmathur25@gmail.com
